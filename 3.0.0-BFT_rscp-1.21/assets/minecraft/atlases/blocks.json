@@ -4,6 +4,20 @@
             "type": "directory",
             "source": "custom",
             "prefix": "custom/"
+        },
+        {
+            "type": "directory",
+            "source": "item",
+            "prefix": "item/"
+        },
+        {
+            "type": "directory",
+            "source": "models",
+            "prefix": "models/"
+        },
+        {
+            "type": "single",
+            "resource": "entity/chest/normal"
         }
     ]
 }

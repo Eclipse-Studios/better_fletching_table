@@ -11,6 +11,6 @@
         "conditional=true,facing=north": { "model": "block/minecart/furnace" },
         "conditional=true,facing=south": { "model": "block/minecart/tnt" },
         "conditional=true,facing=west":  { "model": "block/minecart/hopper" },
-        "conditional=true,facing=east":  { "model": "block/command_block_conditional", "y": 90 }
+        "conditional=true,facing=east":  { "model": "block/minecart/furnace_on" }
     }
 }
