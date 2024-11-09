@@ -1,6 +1,3 @@
-execute if block ~ ~ ~ minecraft:grindstone run function iris:get_hitbox/block/shape_groups/grindstone
-execute if block ~ ~ ~ minecraft:hanging_roots run function iris:get_hitbox/block/shape_groups/hanging_roots
-execute if block ~ ~ ~ #iris:shape_groups/heavy_weighted_pressure_plate run function iris:get_hitbox/block/shape_groups/heavy_weighted_pressure_plate
 execute if block ~ ~ ~ minecraft:hopper run function iris:get_hitbox/block/shape_groups/hopper
 execute if block ~ ~ ~ #iris:shape_groups/kelp run function iris:get_hitbox/block/shape_groups/kelp
 execute if block ~ ~ ~ minecraft:ladder run function iris:get_hitbox/block/shape_groups/ladder
@@ -15,8 +12,12 @@ execute if block ~ ~ ~ #iris:shape_groups/melon_stem run function iris:get_hitbo
 execute if block ~ ~ ~ minecraft:nether_portal run function iris:get_hitbox/block/shape_groups/nether_portal
 execute if block ~ ~ ~ minecraft:nether_sprouts run function iris:get_hitbox/block/shape_groups/nether_sprouts
 execute if block ~ ~ ~ minecraft:nether_wart run function iris:get_hitbox/block/shape_groups/nether_wart
+execute if block ~ ~ ~ #iris:experiments/pale_hanging_moss run function iris:get_hitbox/block/shape_groups/pale_hanging_moss
+execute if block ~ ~ ~ #iris:experiments/pale_moss_carpet run function iris:get_hitbox/block/shape_groups/pale_moss_carpet
 execute if block ~ ~ ~ minecraft:piglin_head run function iris:get_hitbox/block/shape_groups/piglin_head
 execute if block ~ ~ ~ minecraft:piglin_wall_head run function iris:get_hitbox/block/shape_groups/piglin_wall_head
 execute if block ~ ~ ~ minecraft:pink_petals run function iris:get_hitbox/block/shape_groups/pink_petals
 execute if block ~ ~ ~ #iris:shape_groups/piston run function iris:get_hitbox/block/shape_groups/piston
 execute if block ~ ~ ~ minecraft:piston_head run function iris:get_hitbox/block/shape_groups/piston_head
+execute if block ~ ~ ~ minecraft:pitcher_crop run function iris:get_hitbox/block/shape_groups/pitcher_crop
+execute if block ~ ~ ~ minecraft:pointed_dripstone run function iris:get_hitbox/block/shape_groups/pointed_dripstone

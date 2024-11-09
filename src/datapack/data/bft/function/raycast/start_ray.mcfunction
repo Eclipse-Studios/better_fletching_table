@@ -1,5 +1,5 @@
 # Settings:
-execute store result score $max_distance bft.raycast run attribute @s minecraft:player.block_interaction_range get 1000000
+execute store result score $max_distance bft.raycast run attribute @s minecraft:block_interaction_range get 1000000
 data modify storage iris:settings MaxRecursionDepth set value 16
 data remove storage iris:settings Whitelist
 data remove storage iris:settings Callback
@@ -14,4 +14,6 @@ execute unless data storage iris:output {TargetType: "BLOCK"} run function bft:t
 
 # If:
 execute if score $distance bft.raycast <= $max_distance bft.raycast at @e[type=minecraft:marker,tag=iris.targeted_block] if block ~ ~ ~ #bft:ft run function bft:table/menu/summon
-execute if score $distance bft.raycast <= $max_distance bft.raycast at @e[type=minecraft:marker,tag=iris.targeted_block] unless block ~ ~ ~ #bft:ft run function bft:table/menu/kill
+
+# Else 2:
+execute at @e[type=minecraft:marker,tag=iris.targeted_block] unless block ~ ~ ~ #bft:ft run function bft:table/menu/kill

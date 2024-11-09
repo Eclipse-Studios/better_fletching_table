@@ -1,10 +1,6 @@
 {
     "values": [
         {
-            "id": "minecraft:bamboo",
-            "required": false
-        },
-        {
             "id": "minecraft:bamboo_sapling",
             "required": false
         },
@@ -86,6 +82,14 @@
         },
         {
             "id": "#iris:shape_groups/carrots",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/cauldron",
+            "required": false
+        },
+        {
+            "id": "minecraft:chain",
             "required": false
         }
     ]

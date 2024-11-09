@@ -8,6 +8,12 @@
           "name": "minecraft:black_stained_glass_pane",
           "functions": [
             {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:hide_tooltip": {}
+              }
+            },
+            {
               "function": "minecraft:set_custom_data",
               "tag": "{bft:[{menu:1b},{recipe:1b}]}"
             },

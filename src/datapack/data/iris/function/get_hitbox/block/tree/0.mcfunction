@@ -20,3 +20,4 @@ execute if block ~ ~ ~ #iris:shape_groups/andesite_wall run function iris:get_hi
 execute if block ~ ~ ~ #iris:shape_groups/anvil run function iris:get_hitbox/block/shape_groups/anvil
 execute if block ~ ~ ~ #iris:shape_groups/attached_melon_stem run function iris:get_hitbox/block/shape_groups/attached_melon_stem
 execute if block ~ ~ ~ #iris:shape_groups/azalea run function iris:get_hitbox/block/shape_groups/azalea
+execute if block ~ ~ ~ minecraft:bamboo run function iris:get_hitbox/block/shape_groups/bamboo

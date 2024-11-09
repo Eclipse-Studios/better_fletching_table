@@ -87,6 +87,10 @@
         {
             "id": "#iris:shape_groups/azalea",
             "required": false
+        },
+        {
+            "id": "minecraft:bamboo",
+            "required": false
         }
     ]
 }

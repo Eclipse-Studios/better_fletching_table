@@ -369,6 +369,10 @@
             "required": false
         },
         {
+            "id": "minecraft:creaking_heart",
+            "required": false
+        },
+        {
             "id": "minecraft:crimson_hyphae",
             "required": false
         },
@@ -1089,6 +1093,26 @@
             "required": false
         },
         {
+            "id": "minecraft:pale_moss_block",
+            "required": false
+        },
+        {
+            "id": "minecraft:pale_oak_leaves",
+            "required": false
+        },
+        {
+            "id": "minecraft:pale_oak_log",
+            "required": false
+        },
+        {
+            "id": "minecraft:pale_oak_planks",
+            "required": false
+        },
+        {
+            "id": "minecraft:pale_oak_wood",
+            "required": false
+        },
+        {
             "id": "minecraft:pearlescent_froglight",
             "required": false
         },
@@ -1490,6 +1514,14 @@
         },
         {
             "id": "minecraft:stripped_oak_wood",
+            "required": false
+        },
+        {
+            "id": "minecraft:stripped_pale_oak_log",
+            "required": false
+        },
+        {
+            "id": "minecraft:stripped_pale_oak_wood",
             "required": false
         },
         {

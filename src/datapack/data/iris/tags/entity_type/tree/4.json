@@ -1,6 +1,10 @@
 {
     "values": [
         {
+            "id": "minecraft:salmon",
+            "required": false
+        },
+        {
             "id": "minecraft:sniffer",
             "required": false
         },

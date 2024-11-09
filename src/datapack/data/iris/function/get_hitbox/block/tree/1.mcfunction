@@ -1,4 +1,3 @@
-execute if block ~ ~ ~ minecraft:bamboo run function iris:get_hitbox/block/shape_groups/bamboo
 execute if block ~ ~ ~ minecraft:bamboo_sapling run function iris:get_hitbox/block/shape_groups/bamboo_sapling
 execute if block ~ ~ ~ minecraft:beetroots run function iris:get_hitbox/block/shape_groups/beetroots
 execute if block ~ ~ ~ minecraft:bell run function iris:get_hitbox/block/shape_groups/bell
@@ -20,3 +19,5 @@ execute if block ~ ~ ~ minecraft:cake run function iris:get_hitbox/block/shape_g
 execute if block ~ ~ ~ #iris:shape_groups/calibrated_sculk_sensor run function iris:get_hitbox/block/shape_groups/calibrated_sculk_sensor
 execute if block ~ ~ ~ #iris:shape_groups/campfire run function iris:get_hitbox/block/shape_groups/campfire
 execute if block ~ ~ ~ #iris:shape_groups/carrots run function iris:get_hitbox/block/shape_groups/carrots
+execute if block ~ ~ ~ #iris:shape_groups/cauldron run function iris:get_hitbox/block/shape_groups/cauldron
+execute if block ~ ~ ~ minecraft:chain run function iris:get_hitbox/block/shape_groups/chain

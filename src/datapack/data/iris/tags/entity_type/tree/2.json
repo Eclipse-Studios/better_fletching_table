@@ -1,6 +1,10 @@
 {
     "values": [
         {
+            "id": "#iris:shape_groups/egg",
+            "required": false
+        },
+        {
             "id": "minecraft:elder_guardian",
             "required": false
         },
@@ -46,10 +50,6 @@
         },
         {
             "id": "minecraft:guardian",
-            "required": false
-        },
-        {
-            "id": "#iris:shape_groups/hoglin",
             "required": false
         }
     ]

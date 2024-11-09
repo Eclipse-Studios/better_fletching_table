@@ -1,14 +1,6 @@
 {
     "values": [
         {
-            "id": "minecraft:pitcher_crop",
-            "required": false
-        },
-        {
-            "id": "minecraft:pointed_dripstone",
-            "required": false
-        },
-        {
             "id": "minecraft:rail",
             "required": false
         },

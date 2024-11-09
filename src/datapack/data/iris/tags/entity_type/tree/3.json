@@ -1,6 +1,10 @@
 {
     "values": [
         {
+            "id": "#iris:shape_groups/hoglin",
+            "required": false
+        },
+        {
             "id": "#iris:shape_groups/horse",
             "required": false
         },
@@ -46,10 +50,6 @@
         },
         {
             "id": "minecraft:ravager",
-            "required": false
-        },
-        {
-            "id": "minecraft:salmon",
             "required": false
         }
     ]

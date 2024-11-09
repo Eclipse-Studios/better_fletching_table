@@ -1,87 +1,83 @@
 {
     "values": [
         {
-            "id": "minecraft:acacia_door",
+            "id": "minecraft:acacia_boat",
             "required": false
         },
         {
-            "id": "minecraft:bamboo_door",
+            "id": "minecraft:acacia_chest_boat",
             "required": false
         },
         {
-            "id": "minecraft:birch_door",
+            "id": "minecraft:bamboo_chest_raft",
             "required": false
         },
         {
-            "id": "minecraft:cherry_door",
+            "id": "minecraft:bamboo_raft",
             "required": false
         },
         {
-            "id": "minecraft:copper_door",
+            "id": "minecraft:birch_boat",
             "required": false
         },
         {
-            "id": "minecraft:crimson_door",
+            "id": "minecraft:birch_chest_boat",
             "required": false
         },
         {
-            "id": "minecraft:dark_oak_door",
+            "id": "minecraft:cherry_boat",
             "required": false
         },
         {
-            "id": "minecraft:exposed_copper_door",
+            "id": "minecraft:cherry_chest_boat",
             "required": false
         },
         {
-            "id": "minecraft:iron_door",
+            "id": "minecraft:dark_oak_boat",
             "required": false
         },
         {
-            "id": "minecraft:jungle_door",
+            "id": "minecraft:dark_oak_chest_boat",
             "required": false
         },
         {
-            "id": "minecraft:mangrove_door",
+            "id": "minecraft:jungle_boat",
             "required": false
         },
         {
-            "id": "minecraft:oak_door",
+            "id": "minecraft:jungle_chest_boat",
             "required": false
         },
         {
-            "id": "minecraft:oxidized_copper_door",
+            "id": "minecraft:mangrove_boat",
             "required": false
         },
         {
-            "id": "minecraft:pale_oak_door",
+            "id": "minecraft:mangrove_chest_boat",
             "required": false
         },
         {
-            "id": "minecraft:spruce_door",
+            "id": "minecraft:oak_boat",
             "required": false
         },
         {
-            "id": "minecraft:warped_door",
+            "id": "minecraft:oak_chest_boat",
             "required": false
         },
         {
-            "id": "minecraft:waxed_copper_door",
+            "id": "minecraft:pale_oak_boat",
             "required": false
         },
         {
-            "id": "minecraft:waxed_exposed_copper_door",
+            "id": "minecraft:pale_oak_chest_boat",
             "required": false
         },
         {
-            "id": "minecraft:waxed_oxidized_copper_door",
+            "id": "minecraft:spruce_boat",
             "required": false
         },
         {
-            "id": "minecraft:waxed_weathered_copper_door",
-            "required": false
-        },
-        {
-            "id": "minecraft:weathered_copper_door",
+            "id": "minecraft:spruce_chest_boat",
             "required": false
         }
     ]

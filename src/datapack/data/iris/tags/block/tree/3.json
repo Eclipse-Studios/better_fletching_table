@@ -1,18 +1,6 @@
 {
     "values": [
         {
-            "id": "minecraft:grindstone",
-            "required": false
-        },
-        {
-            "id": "minecraft:hanging_roots",
-            "required": false
-        },
-        {
-            "id": "#iris:shape_groups/heavy_weighted_pressure_plate",
-            "required": false
-        },
-        {
             "id": "minecraft:hopper",
             "required": false
         },
@@ -69,6 +57,14 @@
             "required": false
         },
         {
+            "id": "#iris:experiments/pale_hanging_moss",
+            "required": false
+        },
+        {
+            "id": "#iris:experiments/pale_moss_carpet",
+            "required": false
+        },
+        {
             "id": "minecraft:piglin_head",
             "required": false
         },
@@ -86,6 +82,14 @@
         },
         {
             "id": "minecraft:piston_head",
+            "required": false
+        },
+        {
+            "id": "minecraft:pitcher_crop",
+            "required": false
+        },
+        {
+            "id": "minecraft:pointed_dripstone",
             "required": false
         }
     ]

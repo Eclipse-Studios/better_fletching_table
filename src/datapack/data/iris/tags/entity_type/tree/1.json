@@ -29,6 +29,10 @@
             "required": false
         },
         {
+            "id": "#iris:shape_groups/creaking",
+            "required": false
+        },
+        {
             "id": "minecraft:creeper",
             "required": false
         },
@@ -46,10 +50,6 @@
         },
         {
             "id": "#iris:shape_groups/drowned",
-            "required": false
-        },
-        {
-            "id": "#iris:shape_groups/egg",
             "required": false
         }
     ]

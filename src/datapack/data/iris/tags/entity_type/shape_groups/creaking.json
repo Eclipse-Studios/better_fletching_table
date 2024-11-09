@@ -1,11 +1,11 @@
 {
     "values": [
         {
-            "id": "minecraft:boat",
+            "id": "minecraft:creaking",
             "required": false
         },
         {
-            "id": "minecraft:chest_boat",
+            "id": "minecraft:creaking_transient",
             "required": false
         }
     ]

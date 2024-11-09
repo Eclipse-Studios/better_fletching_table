@@ -1,5 +1,3 @@
-execute if block ~ ~ ~ minecraft:pitcher_crop run function iris:get_hitbox/block/shape_groups/pitcher_crop
-execute if block ~ ~ ~ minecraft:pointed_dripstone run function iris:get_hitbox/block/shape_groups/pointed_dripstone
 execute if block ~ ~ ~ minecraft:rail run function iris:get_hitbox/block/shape_groups/rail
 execute if block ~ ~ ~ #iris:shape_groups/redstone_torch run function iris:get_hitbox/block/shape_groups/redstone_torch
 execute if block ~ ~ ~ #iris:shape_groups/redstone_wall_torch run function iris:get_hitbox/block/shape_groups/redstone_wall_torch
